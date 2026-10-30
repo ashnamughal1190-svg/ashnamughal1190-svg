@@ -14,5 +14,5 @@ I build AI automations with **n8n** that connect models like Gemini, OpenAI and 
 n8n, Gemini API, OpenAI API, Claude API, Flutter, Dart, Firebase, Node.js, MongoDB, Google Workspace
 
 ## Contact
-
-[LinkedIn](https://www.linkedin.com/in/ashna-mughal-89b87a2b5/)
+Linkedin
+www.linkedin.com/in/ashna-younas-89b87a2b
